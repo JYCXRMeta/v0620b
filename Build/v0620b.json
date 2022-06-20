@@ -1,0 +1,15 @@
+{
+"companyName": "JYC",
+"productName": "v0620b",
+"productVersion": "1.0",
+"dataUrl": "v0620b.data.unityweb",
+"wasmCodeUrl": "v0620b.wasm.code.unityweb",
+"wasmFrameworkUrl": "v0620b.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.38f1"
+}
